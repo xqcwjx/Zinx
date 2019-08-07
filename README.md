@@ -6,7 +6,7 @@ We appreciate every developer fork this repository and implement more and more s
 # Install
 1. clone the whole project through ssh or http
 
-    `git clone https://github.com/marklion/zinx.git`
+    `git clone https://github.com/xqcwx/zinx.git`
 
 2. enter project folder and run make
 
